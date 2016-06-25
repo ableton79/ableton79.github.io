@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://ableton79.github.io
+title: Awesome
+email: 
+author: ableton79
+description: My awesome new site
+paginate: 3
+google_analytics: 
