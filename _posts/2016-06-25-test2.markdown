@@ -1,0 +1,30 @@
+---
+published: true
+title: test2
+layout: post
+---
+**test**
+A [link](http://example.com "Title").
+_emphasize_
+
+`This is code`
+
+
+	
+~~~~
+This is a 
+piece of code 
+in a block
+~~~~
+
+```
+This too
+
+
+# Header 1
+## Header 2
+### Header 3
+
+#### Header 4 ####
+##### Header 5 #####
+###### Header 6 ######
