@@ -1,7 +1,8 @@
 ---
 title: test
-date: 2016-06-25 00:00:00 Z
+date: 2016-06-27T00:00:00.000Z
 layout: post
+published: true
 ---
 
 # test #
