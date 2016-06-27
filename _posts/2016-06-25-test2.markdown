@@ -1,8 +1,9 @@
 ---
-published: true
 title: test2
+date: 2016-06-25 00:00:00 Z
 layout: post
 ---
+
 **test**
 A [link](http://example.com "Title").
 _emphasize_

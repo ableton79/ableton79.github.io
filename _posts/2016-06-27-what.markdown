@@ -1,8 +1,9 @@
 ---
-published: true
 title: what
+date: 2016-06-27 00:00:00 Z
 layout: post
 ---
+
 # say what
 ### say what again
 

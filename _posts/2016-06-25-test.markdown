@@ -1,8 +1,9 @@
 ---
-published: true
 title: test
+date: 2016-06-25 00:00:00 Z
 layout: post
 ---
+
 # test #
 ### more test ###
 * test *
