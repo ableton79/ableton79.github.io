@@ -1,7 +1,8 @@
 ---
 title: what
-date: 2016-06-27 00:00:00 Z
+date: 2016-06-27T00:00:00.000Z
 layout: post
+published: true
 ---
 
 # say what
